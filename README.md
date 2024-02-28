@@ -17,6 +17,6 @@ You can access the deployed website: https://pos-system-five.vercel.app/.
 
 ## Project Structure
 
-- Utilkit functions are implemented to store reusable logic for easy management.
+- UtilKit functions are implemented to store reusable logic for easy management.
 - Reusable components are stored within the app folder for better organization.
 - Tailwind CSS is used for styling, with custom CSS for tailwind to extend its functionality.
