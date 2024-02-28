@@ -23,6 +23,8 @@ module.exports = {
         "secondary-400": "#818cf8",
         "secondary-500": "#6366f1",
         "secondary-600": "#4f46e5",
+        "primary-bg": "#dbeafe",
+        "main-bg": "#F7FDFC",
       },
     },
   },
